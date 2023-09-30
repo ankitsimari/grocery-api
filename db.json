@@ -28,6 +28,7 @@
       ]
     }
   ],
+  "loggedIn":[],
   "products":[
     {
       "id": 1,
