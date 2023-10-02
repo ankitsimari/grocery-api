@@ -29,6 +29,7 @@
     }
   ],
   "loggedIn":[],
+  "Admin":false,
   "products":[
     {
       "id": 1,
